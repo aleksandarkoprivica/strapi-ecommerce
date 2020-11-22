@@ -25,7 +25,7 @@ Payment will not work on localhost, we are redirecting you to this [tutorial](ht
 
 ### Backend
 
-Make sure you're in the `frontend` directory:
+Make sure you're in the `backend` directory:
 
 ```bash
 cd backend
